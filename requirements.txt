@@ -6,7 +6,7 @@ chardet==3.0.4
 crcmod==1.7
 idna==2.8
 jmespath==0.9.4
-lxml==4.3.3
+lxml==4.9.1
 oss2==2.6.1
 pycryptodome==3.8.1
 requests==2.22.0
